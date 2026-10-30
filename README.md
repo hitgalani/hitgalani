@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Hit Galani 👋
 
-<!--
-**hitgalani/hitgalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BCA student at Sutex Bank College of Computer Applications & Science (SBCCAS), Amroli, Surat. I am learning software development and building practical projects using modern tools and technologies.
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **BCA** — Sutex Bank College of Computer Applications & Science (SBCCAS), Amroli, Surat  
+- Affiliated to Veer Narmad South Gujarat University
+
+## 💻 Currently Learning
+
+- Git & GitHub
+- Python
+- Web Development
+- Problem Solving
+- Software Development Fundamentals
+
+## 🚀 Projects
+
+### 🍽️ Amroli Canteen
+A canteen pre-order application designed to help students view the menu and place orders conveniently.
+
+## 🛠️ Skills
+
+- Programming: Python, C
+- Web: HTML, CSS
+- Tools: Git, GitHub, VS Code
+- Concepts: Version Control, Branching, Pull Requests, Issue Tracking
+
+## 🎯 Goals
+
+- Become a skilled full-stack developer
+- Build useful real-world applications
+- Contribute to open-source projects
+- Improve my coding and problem-solving skills
+
+## 📫 Connect With Me
+
+- GitHub: [@hitgalani](https://github.com/hitgalani)
+- Email: hitgalani@example.com
+
+<!-- Optional: Add LinkedIn, Instagram, or portfolio links here -->
