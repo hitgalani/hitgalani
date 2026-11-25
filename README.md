@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hit%20Galani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%7C%20Python%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=60&descSize=18" width="100%" alt="Hit Galani banner"/>
+<img src="assets/banner.svg" width="100%" alt="Hit Galani banner"/>
 
 <a href="https://github.com/hitgalani/hitgalani">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Learning+by+building+real+projects;Python+%7C+Data+Analytics+%7C+Machine+Learning;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing animation" />
